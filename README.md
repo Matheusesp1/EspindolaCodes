@@ -2,8 +2,6 @@
 
 <img width="892" height="280" alt="logo-3d-removebg-preview" src="https://github.com/user-attachments/assets/a6cf3043-cf55-47ef-a1e6-22e7cc6326bf"/>
 
-
-
 Site de divulgação da **Espíndola Codes**, para apresentar meus serviços, mostrar o portfólio e facilitar o contato de novos clientes.
 
 [🌐 Ver site no ar]() · [📸 Instagram](https://www.instagram.com/espindola.codes)
@@ -57,12 +55,12 @@ espindola-site/
 ## 📬 Contato
 
 - Instagram: [@espindola.codes](https://www.instagram.com/espindola.codes)
-- Localização: Vitória, ES, Brasil
+- Localização: Vila Velha, ES, Brasil
 
 ---
 
 <div align="center">
 
-Feito por **Matheus Espíndola** · © Espíndola Codes
+Feito por **Matheus Espindola** · © Espíndola Codes
 
 </div>
